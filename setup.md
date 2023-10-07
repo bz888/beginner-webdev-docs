@@ -41,6 +41,12 @@
    - If your command prompt now looks different (e.g. showing your computer name) that's a good sign
 1. `nvm install --lts`
 
+### Github SSH (optinal, but prefered)
+
+`https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent`
+
+- I have forgotten how to setup the SSH, so you must go through the docs are suffer.
+
 ### Docker
 
 #### notes: Docker is very useful
